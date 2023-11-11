@@ -1,2 +1,2 @@
 # hello-world
-Exercício  01
+Primeira atividade do curso da Cubos
